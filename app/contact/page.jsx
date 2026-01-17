@@ -67,6 +67,12 @@ function ContactPage() {
             >
               Terms & Conditions
             </Link>
+            <Link
+    href="/support"
+    className="hover:text-white underline transition"
+  >
+    App Support
+  </Link>
           </div>
         </div>
 
